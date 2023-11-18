@@ -1,0 +1,3 @@
+# IQ
+
+CS50 FINAL PROJECT 
